@@ -98,7 +98,3 @@ Highlights the top contributors to model decisions:
 - Maxwell Njoroge
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
