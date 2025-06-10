@@ -56,9 +56,9 @@ Evaluates prediction accuracy. Most crops were correctly classified with few con
 
 ### 🌿 Feature Importance
 Highlights the top contributors to model decisions:
-1. **Nitrogen**
-2. **Potassium**
-3. **Temperature**
+1. **Humidity**
+2. **Temperature**
+3. **Nutrients**
 
 ---
 
@@ -71,17 +71,6 @@ Highlights the top contributors to model decisions:
 
 ---
 
-## 📁 Project Structure
-
-```
-Crop-Recommendation-ML/
-├── data/               # Dataset file
-├── notebooks/          # Analysis and modeling notebooks
-├── images/             # Visual outputs
-├── presentation/       # PowerPoint slides
-├── models/             # Model files (optional)
-├── README.md           # Project overview
-```
 
 ---
 
